@@ -5,3 +5,5 @@ Dazu erst das Beispiel lokal (ohne Eclipse) lauffähig gemacht
 Hier zwar als Node.js Projekt erstellt und anschliessend die Dateien importiert,
 troztdem funktioniert es nicht eine *.js Datei zu wählen und dann "run as node application" auszuführen AUCH Run as node.js application funktioniert nicht....?
 
+Startet man index.html in einer externen Firefox-Instanz,
+kann man dort als WebDeveloper in der Konsole die Erfolgsmeldung sehen, oder einen Fehler.
